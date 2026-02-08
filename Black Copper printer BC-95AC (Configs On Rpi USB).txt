@@ -1,0 +1,4 @@
+VendorID: 0483
+ProductID: 5743
+Interface Number : 0
+Enpoint Address : 0x01
