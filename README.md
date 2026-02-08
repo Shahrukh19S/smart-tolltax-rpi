@@ -5,6 +5,7 @@ An automated toll tax system using **Raspberry Pi** and **Arduino**, with a LAMP
 **Repository:** [github.com/Shahrukh19S/smart-tolltax-rpi](https://github.com/Shahrukh19S/smart-tolltax-rpi)  
 [![Project Video](https://img.shields.io/badge/Video-Watch%20on%20YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=n5ErGz2OViQ)
 
+**[▶ Smart Toll Tax System Using Raspberry Pi, Arduino – YouTube](https://www.youtube.com/watch?v=n5ErGz2OViQ)**
 ---
 
 ## Overview
