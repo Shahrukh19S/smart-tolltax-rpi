@@ -9,6 +9,14 @@ An automated toll tax system using **Raspberry Pi** and **Arduino**, with a LAMP
 [![Project Video](https://img.shields.io/badge/Video-Watch%20on%20YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=n5ErGz2OViQ)
 ---
 
+## 📸 LIVE DASHBOARD
+
+![Live Web Dashboard](LIVE%20DASHBOARD.png)
+
+## 📸 PROJECT HARDWARE
+
+![HARDWARE PROTOTYPE](PROJECT%20HARDWARE.png)
+
 ## Overview
 
 This project implements a smart toll booth that:
