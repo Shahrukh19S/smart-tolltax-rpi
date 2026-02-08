@@ -3,9 +3,10 @@
 An automated toll tax system using **Raspberry Pi** and **Arduino**, with a LAMP-style web dashboard (Linux, Apache, MariaDB, PHP) for real-time vehicle and owner information, Thermal printer for receipt generation, baracode scanner and RFID based manual detection.
 
 **Repository:** [github.com/Shahrukh19S/smart-tolltax-rpi](https://github.com/Shahrukh19S/smart-tolltax-rpi)  
-[![Project Video](https://img.shields.io/badge/Video-Watch%20on%20YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=n5ErGz2OViQ)
+
 
 **[▶ Smart Toll Tax System Using Raspberry Pi, Arduino – YouTube](https://www.youtube.com/watch?v=n5ErGz2OViQ)**
+[![Project Video](https://img.shields.io/badge/Video-Watch%20on%20YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=n5ErGz2OViQ)
 ---
 
 ## Overview
